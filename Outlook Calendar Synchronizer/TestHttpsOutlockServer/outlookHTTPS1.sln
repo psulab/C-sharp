@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "outlookHTTPS1", "outlookHTTPS1\outlookHTTPS1.csproj", "{BE56E1F5-0A34-47F4-8330-B55C9A9DAA9E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{B00CAB12-C465-49F7-889E-E396B51507FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE56E1F5-0A34-47F4-8330-B55C9A9DAA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE56E1F5-0A34-47F4-8330-B55C9A9DAA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE56E1F5-0A34-47F4-8330-B55C9A9DAA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE56E1F5-0A34-47F4-8330-B55C9A9DAA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00CAB12-C465-49F7-889E-E396B51507FA}.Debug|Any CPU.ActiveCfg = Debug
+		{B00CAB12-C465-49F7-889E-E396B51507FA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
